@@ -38,8 +38,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Supervised Method
 
-- **[LIME]** LIME: Low-light Image Enhancement via Illumination Map Estimation (**T-IP**) [[paper](https://ieeexplore.ieee.org/document/7782813)] [[code-matlab](https://github.com/Sy-Zhang/LIME)]
-
 - **[SID]** Learning to See in the Dark (**CVPR 2018**) [[paper](http://cchen156.web.engr.illinois.edu/paper/18CVPR_SID.pdf)][[code](https://github.com/cchen156/Learning-to-See-in-the-Dark)][[code-pytorch](https://github.com/cydonia999/Learning_to_See_in_the_Dark_PyTorch)]
 
 - **[Retinex-Net]** Deep Retinex Decomposition for Low-Light Enhancement (**BMVC 2018**) [[paper](https://arxiv.org/pdf/1808.04560)][[code](https://github.com/weichen582/RetinexNet)][[code-pytorch](https://github.com/FunkyKoki/RetinexNet_PyTorch)]
@@ -73,6 +71,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - **[ALIE]** Attention-guided Low-light Image Enhancement [[paper](https://arxiv.org/pdf/1908.00682)] [[homepage](http://phi-ai.org/project/AgLLNet/default.htm)]
 
 ## Unsupervised Method
+
+- **[LIME]** LIME: Low-light Image Enhancement via Illumination Map Estimation (**T-IP**) [[paper](https://ieeexplore.ieee.org/document/7782813)] [[code-matlab](https://github.com/Sy-Zhang/LIME)]
 
 - **[EnlightenGAN]** EnlightenGAN: Deep Light Enhancement without Paired Supervision [[paper](https://arxiv.org/pdf/1906.06972)][[code](https://github.com/TAMU-VITA/EnlightenGAN)]
 
