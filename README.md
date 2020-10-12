@@ -74,9 +74,17 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - **[ALIE]** Attention-guided Low-light Image Enhancement [[paper](https://arxiv.org/pdf/1908.00682)] [[homepage](http://phi-ai.org/project/AgLLNet/default.htm)]
 
+- **[DCGANs]** Deep Learning for Robust end-to-end Tone Mapping (**BMVC 2019**) [[paper](https://bmvc2019.org/wp-content/uploads/papers/0849-paper.pdf)]
+
+- **[RJI]** Robust Joint Image Reconstruction from Color and Monochrome Cameras (**BMVC 2019**) [[paper](https://bmvc2019.org/wp-content/uploads/papers/0754-paper.pdf)]
+
 - **[RLI-DaE]** Learning to Restore Low-Light Images via Decomposition-and-Enhancement (**CVPR 2020**) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.pdf)]
 
 - **[Pb-NFM]** A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising (**CVPR 2020**, paper for [ELD dataset](#ELD)) [[paper](https://arxiv.org/abs/2003.12751)][[Code](https://github.com/Vandermode/ELD)]
+
+- **[DALE]** DALE : Dark Region-Aware Low-light Image Enhancement (**BMVC 2020**) [[paper](https://www.bmvc2020-conference.com/assets/papers/1025.pdf)]
+
+- **[LLPackNet]** Towards Fast and Light-Weight Restoration of Dark Images (**BMVC 2020**) [[[paper](https://www.bmvc2020-conference.com/assets/papers/0145.pdf)] [[code](https://github.com/MohitLamba94/LLPackNet)]
 
 ## Semi-Superised and Unsupervised Method
 
