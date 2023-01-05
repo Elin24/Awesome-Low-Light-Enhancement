@@ -136,7 +136,7 @@ from Single Images (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/conten
 
 - **[SNRA]** SNR-Aware Low-light Image Enhancement (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_SNR-Aware_Low-Light_Image_Enhancement_CVPR_2022_paper.html)][[code](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance)]
 
-- **[URetinex]** URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement (**CVPR 2022**) [[paper]()]
+- **[URetinex]** URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_URetinex-Net_Retinex-Based_Deep_Unfolding_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.html)]
 
 - **[DCC-Net]** Deep Color Consistent Network for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Deep_Color_Consistent_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)]
 
