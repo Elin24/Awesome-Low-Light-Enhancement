@@ -84,7 +84,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Supervised Method
 
-- **[SID]** Learning to See in the Dark (**CVPR 2018**) [[paper](http://cchen156.web.engr.illinois.edu/paper/18CVPR_SID.pdf)][[code](https://github.com/cchen156/Learning-to-See-in-the-Dark)][[code-pytorch](https://github.com/cydonia999/Learning_to_See_in_the_Dark_PyTorch)]
+- **[SID]** Learning to See in the Dark (**CVPR 2018**) [[paper](https://cchen156.github.io/SID.html)][[code](https://github.com/cchen156/Learning-to-See-in-the-Dark)][[code-pytorch](https://github.com/cydonia999/Learning_to_See_in_the_Dark_PyTorch)]
 
 - **[Retinex-Net]** Deep Retinex Decomposition for Low-Light Enhancement (**BMVC 2018**) [[paper](https://arxiv.org/pdf/1808.04560)][[code](https://github.com/weichen582/RetinexNet)][[code-pytorch](https://github.com/FunkyKoki/RetinexNet_PyTorch)]
 
