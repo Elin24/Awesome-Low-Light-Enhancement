@@ -150,7 +150,7 @@ from Single Images (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/conten
 
 ## Semi-Superised and Unsupervised Method
 
-- **[LIME]** LIME: Low-light Image Enhancement via Illumination Map Estimation (**T-IP**) [[paper](https://ieeexplore.ieee.org/document/7782813)] [[code-matlab](https://github.com/Sy-Zhang/LIME)]
+- **[LIME]** LIME: Low-light Image Enhancement via Illumination Map Estimation (**T-IP**) [[paper](https://ieeexplore.ieee.org/document/7782813)] [[code-matlab](https://github.com/Sy-Zhang/LIME)][[code-numpy](https://github.com/Henry-GongZY/Low-light-Image-Enhancement)]
 
 - **[EnlightenGAN]** EnlightenGAN: Deep Light Enhancement without Paired Supervision [[paper](https://arxiv.org/pdf/1906.06972)][[code](https://github.com/TAMU-VITA/EnlightenGAN)]
 
