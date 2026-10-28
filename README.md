@@ -167,3 +167,15 @@ from Single Images (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/conten
 - **[LES]** Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/982_ECCV_2022_paper.php)][[code](https://github.com/jinyeying/night-enhancement)]
 
 - **[UDCL-Transformer]** Unsupervised Low Light Image Enhancement Transformer Based on Dual Contrastive Learning (**BMVC 2022**) [[project](https://bmvc2022.mpi-inf.mpg.de/373/)][[paper](https://bmvc2022.mpi-inf.mpg.de/0373.pdf)][[code](https://github.com/KaedeKK/UDCL-Transformer)]
+
+### Other Methods (Supervision to Be Confirmed)
+
+The training supervision of the following methods has not yet been verified, so they are listed separately from the categories above.
+
+- Exposure Calibration Network With Graph Convolution for Low-Light Image Enhancement (**IEEE Sensors Journal 2024**) [[paper](https://doi.org/10.1109/JSEN.2024.3481416)]
+  - S. K. Panda and P. K. Sa; exposure estimation and calibration with graph convolution for nonlocal feature extraction.
+  - Public code and evaluation datasets have not been verified.
+
+- A Thermal-Aware Multisensor Framework for Low-Light Image Enhancement (**IEEE Sensors Journal 2025**) [[paper](https://doi.org/10.1109/JSEN.2025.3590815)]
+  - S. K. Panda and P. K. Sa; multimodal low-light enhancement using RGB and thermal inputs.
+  - The abstract introduces RGBT-1K (1,000 RGB-thermal image pairs). Public code, dataset access, and the full evaluation protocol have not been verified.
